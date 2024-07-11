@@ -1,5 +1,5 @@
 # Hello 👋
-### I am new here.
+### I'm new here.
 <!--
 **MylsKlaark/MylsKlaark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
