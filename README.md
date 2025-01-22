@@ -1,5 +1,5 @@
 # Hello 👋
-### I'm new here.
+### My name is Craig. Not Miles.
 
 - 🌱 I’m currently learning data engineering.
 - 👯 I’m looking to collaborate on NLP projects.
