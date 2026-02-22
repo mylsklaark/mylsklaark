@@ -1,7 +1,6 @@
 # Hello 👋
 ### My name is Craig. I'm a Senior Researcher working in local government.
 
-- 🔭 I’m currently working on generative AI applications.
 - 🌱 I’m currently learning data engineering.
 - 👯 I’m looking to collaborate on NLP projects.
 - 😄 Pronouns: he/him.
