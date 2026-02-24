@@ -1,9 +1,9 @@
 # Hello 👋
 ### My name is Craig. I'm a Senior Researcher working in local government.
 
-- 🌱 I’m currently learning data engineering.
-- 👯 I’m looking to collaborate on NLP projects.
-- 😄 Pronouns: he/him.
+- I’m currently learning data engineering.
+- I’m looking to collaborate on NLP projects.
+- Pronouns: he/him.
 
 <!--
 **MylsKlaark/MylsKlaark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
