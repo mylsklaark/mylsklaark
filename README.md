@@ -1,8 +1,7 @@
 # Hello 👋
-### My name is Craig. I'm a Senior Researcher working in local government.
+### My name is Craig. I'm a Data Engineer working in local government.
 
-- I’m currently learning data engineering.
-- I’m looking to collaborate on NLP projects.
+- I’m looking to collaborate on data engineering projects.
 - Pronouns: he/him.
 
 <!--
